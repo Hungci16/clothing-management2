@@ -45,9 +45,7 @@
                     <li class="nav-item">
                         <a class="nav-link" href="{{ route('users.index') }}">Người dùng</a>
                     </li>
-                    <li class="nav-item">
-                        <a class="nav-link" href="{{ route('promotions.index') }}">Khuyến mãi</a>
-                    </li>
+                    
                     <li class="nav-item">
                         <a class="nav-link" href="{{ route('orders.index') }}">Quản lý đơn hàng</a>
                     </li>
